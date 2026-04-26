@@ -107,6 +107,8 @@ The project includes matplotlib-based visualizations such as:
 2. Model calibration curves
 3. Feature importance analysis
 
+![Prediction Distribution](prediction_distribution.png)
+
 
 Final Output
 
